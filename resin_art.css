@@ -1,0 +1,180 @@
+.resin-art-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: -20px;
+  }
+  #navItem1 {
+    color:white;
+    font-family: "Roboto";
+    font-size: 20px;
+  }
+  #navItem2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+  }
+  #navItem3 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+  }
+  #navItem4 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+  }
+  .span{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: 100;
+    font-style: italic;
+    color:rgb(197, 220, 20);
+    margin-bottom: -900px;
+  }
+  .resin{
+    font-size: 24px;
+    font-weight: 600;
+    color:white;
+    font-family:serif;
+    margin-left: -20px;
+    font-style: italic;
+    margin-top: -30px;
+  }
+  .bg{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/04/87/60/41/1000_F_487604118_fHQ6Y1UouDQDPGMfSFT2Ven5QwJpdQqU.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+  .banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+  }
+  .banner-caption {
+    color:whitesmoke;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 180px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .shop{
+    text-align: center;
+    font-size: 26px;
+    font-family:"Roboto";
+    font-weight: 600;
+    color: darkmagenta;
+  }
+  
+  .ex-menu-bg{
+    background-color: white;
+}
+.menu-heading{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 700;
+}
+.menu-desc-link{
+    color: #d0b200;
+  font-family: "Roboto";
+  font-size: 17px;
+  font-weight: 500;
+}
+.menu-card-heading{
+    color: #323f4b;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.menu-image{
+    border-radius: 18px;
+
+}
+.menu-card{
+    border-radius: 15px;
+}
+.vr-bg {
+  background-color: #19232d;
+  height: 500px;
+}
+
+.vr-logo-img {
+  height: 110px;
+  width: 100px;
+  text-align: center;
+}
+
+.icon-bg {
+  background-color: #202b36;
+  border-radius: 50px;
+  height: 50px;
+  width: 100px;
+  text-align: center;
+  padding-top: 10px;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+.adress {
+  font-size: 20px;
+  color: #5a7184;
+  margin-bottom: 20px;
+}
+
+.contact-us {
+  font-size: 25px;
+  color: #5a7184;
+  font-weight: 600;
+}
+
+.r {
+  background-color: #5a7184;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 14px;
+  font-size: 18px;
+  padding: 4px;
+}
+
+.list1 {
+  list-style-type: none;
+  margin-left: -30px;
+}
+
+.hr-line {
+  background-color: #959ead;
+}
+.footer{
+  color: #959ead;
+  font-size: 20px;
+}
+.aboutus-para{
+  color:black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+}
+.aboutus-image{
+  margin-right:-30px;
+}
+.marginleft{
+  margin-left:-170px;
+}
+.aboutus-image2{
+  margin-left:100px;
+}
+
+
+  
